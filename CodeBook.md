@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Course Project Codebook
 
-# Introduction
+### Introduction
 
-# Variables
+### Variables
 
